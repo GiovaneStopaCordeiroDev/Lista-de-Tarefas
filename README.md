@@ -11,13 +11,13 @@ Uma aplicação simples de lista de tarefas, onde o usuário pode adicionar, mar
 - Adicionar novas tarefas  
 - Marcar tarefas como concluídas  
 - Remover tarefas  
-- Design responsivo (funciona bem em desktop e mobile)  
-
+- Design responsivo
+  
 ---
 
 ## Tecnologias utilizadas
 
 - HTML  
 - CSS  
-- JavaScript (Vanilla / ou framework se usar)  
+- JavaScript
 - Netlify (para hospedagem)  
