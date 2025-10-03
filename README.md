@@ -1,6 +1,6 @@
 # To-Do List
 
-Uma aplicação simples de lista de tarefas, onde o usuário pode adicionar, marcar como concluído e remover tarefas.  
+Uma aplicação simples de lista de tarefas para botar em prática o JavaScript, onde o usuário pode adicionar, marcar como concluído e remover tarefas. 
 
 **Site Hospedado:** https://to-do-list-giovane.netlify.app  
 
